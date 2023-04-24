@@ -1,0 +1,48 @@
+.navbar {
+  height: 60px;
+  background-color: #ffffff3d;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  width: 100%;
+}
+.navBar_scroll {
+  height: 60px;
+  background-color: #ffffff;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  width: 100%;
+}
+.cartNum {
+  background: red;
+  width: 17px;
+  height: 17px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 3px;
+}
+.logoName {
+  text-transform: none;
+  margin-left: 5px;
+  font-size: 22px;
+  font-family: cursive;
+  color: #d2b34b;
+}
+.navItems {
+  text-decoration: none;
+  color: rgb(6, 6, 6);
+  transition: transform 0.2s;
+}
+.navItems:hover {
+  color: #d2b34b;
+  transform: scale(1.5);
+}
+.buttonDes {
+  transition: border 0.2s;
+}
+.buttonDes:hover {
+  border-radius: 10px;
+}

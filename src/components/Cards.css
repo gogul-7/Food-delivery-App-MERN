@@ -1,0 +1,25 @@
+.selectDes{
+    width: 40;
+    height: 28px;
+    background: black;
+    color: white;
+    border-radius: 15px;
+    font-size: 14px;
+    padding: 3px;
+    margin-right: 10px;
+}
+.selectDes2{
+    width: 90;
+    height: 28px;
+    background: black;
+    color: white;
+    border-radius: 15px;
+    font-size: 14px;
+    padding: 3px;
+    text-transform: capitalize;
+}
+.priceDes{
+    margin-left: 10px;
+    text-decoration: solid;
+}
+
