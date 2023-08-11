@@ -48,8 +48,9 @@ function Home() {
                   </div>
                   <Row
                     xs={1}
-                    md={2}
-                    lg={4}
+                    sm={1}
+                    lg={3}
+                    xxl={4}
                     className="border border-2 border-start-0 border-end-0"
                   >
                     {foodItem !== []

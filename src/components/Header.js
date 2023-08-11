@@ -79,7 +79,7 @@ function Header(props) {
         <Form className="d-flex" style={{ height: "30px" }}>
           <Form.Control
             type="search"
-            placeholder="Search"
+            placeholder="Filter"
             className="me-6"
             aria-label="Search"
             onChange={handleInputChange}
